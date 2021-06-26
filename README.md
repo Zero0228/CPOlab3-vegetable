@@ -36,6 +36,12 @@
 >   > **To prove usability, you should implement command-line utilities that demonstrate all library features. E.g., develop an application for storing passwords, todo, or address book**
 
 
-## Conclusion
+## update
+>Teacher, the main changes are:
 > 
+> 1. Replace global variables with class variables
+>
+> 2.'"CLI.py" is the logical implementation part of CLI, "unit_test.py" is the CLI function test, "CLI_decorator.py" is the CLI decorator, "test_example.py" is the example of using CLI decoration
+>
+> 3. The format of each running command is written in'"CLI.py", all of which are automated
 > 
