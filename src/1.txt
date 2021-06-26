@@ -1,17 +1,6 @@
 This is 1.txt
-This file is created at 2021/6/24 20:56 in Beijing time.
-1234
-
-test
-test
-JG BEAT
-JG BEAT
-JG BEAT
-JG BEAT
-JG BEAT
-JG BEAT
-JG beat
-JG BEAT
+This file is created at 2021/6/26 10:07 in Beijing time.
+hello word
 JG BEAT
 JG BEAT
 JG BEAT
