@@ -7,7 +7,7 @@ Function description: Output version information
 :param s: Command entered
 Usage example: python *.py --version | -V | -v
 output:
-3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)]
+3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
 '''
 def v():
     ret = sys.version
