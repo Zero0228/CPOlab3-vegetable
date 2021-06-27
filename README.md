@@ -34,9 +34,8 @@
 >   > **To prove correctness, you should use unit tests**
 > 
 >   > **To prove usability, you should implement command-line utilities that demonstrate all library features. E.g., develop an application for storing passwords, todo, or address book**
-
-
-## update
+    
+## 6.26 update
 >Teacher, the main changes are:
 > 
 > 1. Replace global variables with class variables
@@ -45,3 +44,35 @@
 >
 > 3. The format of each running command is written in'"CLI.py", all of which are automated
 > 
+
+## 6.27 update
+> Teacher, the main changes are:
+
+> 1. Output version information
+> <div align=center><img src="./fig/v.png"/></div>
+> 2.Output the path of the specified file
+> <div align=center><img src="./fig/path.png"/></div>
+> 3. Read the contents in the file
+> <div align=center><img src="./fig/r.png"/></div>
+> 4. add data to the file
+> <div align=center><img src="./fig/cat_a1.png"/></div>
+> <div align=center><img src="./fig/cat_a2.png"/></div>
+> 5.create a new file
+> <div align=center><img src="./fig/cat_n1.png"/></div>
+> <div align=center><img src="./fig/cat_n2.png"/></div>
+> 6. Delete a file
+> <div align=center><img src="./fig/cat_d1.png"/></div>
+> <div align=center><img src="./fig/cat_d2.png"/></div>
+> 7. Output help information
+> <div align=center><img src="./fig/h11.png"/></div>
+> <div align=center><img src="./fig/h1.png"/></div>
+> <div align=center><img src="./fig/h2.png"/></div>
+> <div align=center><img src="./fig/h3.png"/></div>
+> 8.Change the input value to hex and save it to the hex.txt
+> <div align=center><img src="./fig/hex.png"/></div>
+> <div align=center><img src="./fig/hex2.png"/></div>
+> 9. Pass a simple variable value
+> <div align=center><img src="./fig/a1.png"/></div>
+> <div align=center><img src="./fig/a11.png"/></div>
+> <div align=center><img src="./fig/a2.png"/></div>
+> <div align=center><img src="./fig/a21.png"/></div>
